@@ -1,0 +1,7 @@
+Author: Marcin Ciechan
+Index: 141504
+Avaible characters: abcdefghijklmnoprstuwxyz
+
+Polski:
+Szyfrator Ubchi - podwojne przestawienie kolumn z kluczem okreslajaca kolejnosc kolumn. 
+Wiecej informacji w dolaczonym pliku excel.
